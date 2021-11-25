@@ -6,4 +6,6 @@ author:
 description: "I blog about data and visualizations related to various topics from cooking to software development"
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
+plugins:
+  - jekyll-feed
