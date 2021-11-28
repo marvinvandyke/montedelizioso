@@ -23,6 +23,9 @@ footer_icons:
 - username: marvinvandyke
   url: https://github.com/marvinvandyke
   icon: icon-github.svg
+- username: Daniele Sagnotti
+  url: https://www.linkedin.com/in/daniele-sagnotti-b2527392/
+  icon: linkedin-icon-2.svg
 
 paginate: 5
 
