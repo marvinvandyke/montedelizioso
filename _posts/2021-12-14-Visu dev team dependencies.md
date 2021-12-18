@@ -12,7 +12,7 @@ When I plan a next major development release, i usally follow an iterative appro
 
 are also fine, depending on the results you want to achieve.
 
-![QFD matrix](/assets/QFD.JPG)
+![QFD matrix](../../../assets/QFD.JPG)
 
 I normally don't use those results as a valid basis for planning, but rather as a jump of point for answering the following questions:
 
